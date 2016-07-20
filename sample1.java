@@ -1,7 +1,7 @@
 /*
     Code Samples
     Author: Soomin Lee
-    Language: Java, C++, Python
+    Language: Java
 */
 
 
